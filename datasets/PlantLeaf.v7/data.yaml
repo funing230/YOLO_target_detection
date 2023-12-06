@@ -1,0 +1,6 @@
+train: PlantLeaf.v7/train/images
+val: PlantLeaf.v7/valid/images
+test: PlantLeaf.v7/test/images
+
+nc: 10
+names: ['Black gram_healthy', 'Black gram_leaf spot', 'Dolicos bean_cercospora leaf spot', 'Dolicos bean_healthy', 'Ground nut_healthy', 'Ground nut_tikka leaf spot', 'millet_healthy', 'millet_rust', 'tomato_early blight', 'tomato_healthy']
